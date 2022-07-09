@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MiniProjecT20220708122854" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\codebase\ abdulla\ sir\\MiniProjecT\\MiniProjecT\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
